@@ -3,7 +3,7 @@ Team Members:
 
 [Sri Hari(srihari39)](https://github.com/srihari39)
 
-[Sathwik](https://github.com/sathwik22)
+[Sathwik V](https://github.com/sathwik22)
 
 [G Venkata Surya Sai](https://github.com/G-Venkata-Surya-Sai)
 
