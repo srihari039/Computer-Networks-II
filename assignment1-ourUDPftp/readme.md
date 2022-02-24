@@ -5,7 +5,7 @@ Team Members:
 
 [Sathwik](https://github.com/sathwik22)
 
-[G V Sai](https://github.com/G-Venkata-Surya-Sai)
+[G Venkata Surya Sai](https://github.com/G-Venkata-Surya-Sai)
 
 [Pramod]()
 
