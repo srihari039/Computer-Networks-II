@@ -1,7 +1,7 @@
 
 Team Members:
 
-[Sri Hari](https://github.com/srihari39)
+[Sri Hari(srihari39)](https://github.com/srihari39)
 
 [Sathwik](https://github.com/sathwik22)
 
