@@ -7,7 +7,7 @@ Team Members:
 
 [G Venkata Surya Sai](https://github.com/G-Venkata-Surya-Sai)
 
-[Pramod]()
+[Pramod Krishna]()
 
 [Sri Teja]()
 
